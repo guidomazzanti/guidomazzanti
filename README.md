@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, No Code, Low Code
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on long life learning
-- 📫 How to reach me : DM via twitter @guidomazzanti
+- 📫 How to reach me : via email support@crexco.zohosupport.com
 
 <!---
 guidomazzanti/guidomazzanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
